@@ -28,4 +28,4 @@ Built version (MacOS) - https://baconwarrior.itch.io/life-before-life-final
 
 ![Life Before Life End](https://github.com/leelightman/Life-Before-Life-Final-Version/blob/master/Screenshots/Life%20Before%20Life%20End.jpg)
 
-![Life Before Like birdview](https://github.com/leelightman/Life-Before-Life-Final-Version/blob/master/Screenshots/Life%20Before%20Like%20birdview.jpg)
+![Life Before Life birdview](https://github.com/leelightman/Life-Before-Life-Final-Version/blob/master/Screenshots/Life%20Before%20Life%20birdview.jpg)
