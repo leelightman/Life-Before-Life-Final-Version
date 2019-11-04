@@ -2,30 +2,30 @@
 
 Built version (MacOS) - https://baconwarrior.itch.io/life-before-life-final
 
-![Life Before Life 2](Screenshots/Life Before Life 10.jpg)
+![Life Before Life 2](https://github.com/leelightman/Life-Before-Life-Final-Version/blob/master/Screenshots/Life%20Before%20Life%202.jpg)
 
-![Life Before Life](./Screenshots/Life Before Life.jpg?raw=true "Title")
+![Life Before Life](https://github.com/leelightman/Life-Before-Life-Final-Version/blob/master/Screenshots/Life%20Before%20Life.jpg)
 
-![Life Before Life 3](./Screenshots/Life Before Life 3.jpg)
+![Life Before Life 3](https://github.com/leelightman/Life-Before-Life-Final-Version/blob/master/Screenshots/Life%20Before%20Life%203.jpg)
 
-![Life Before Life 4](./Screenshots/Life Before Life 4.jpg)
+![Life Before Life 4](https://github.com/leelightman/Life-Before-Life-Final-Version/blob/master/Screenshots/Life%20Before%20Life%204.jpg)
 
-![Life Before Life 5](./Screenshots/Life Before Life 5.jpg)
+![Life Before Life 5](https://github.com/leelightman/Life-Before-Life-Final-Version/blob/master/Screenshots/Life%20Before%20Life%205.jpg)
 
-![Life Before Life 6](./Screenshots/Life Before Life 6.jpg)
+![Life Before Life 6](https://github.com/leelightman/Life-Before-Life-Final-Version/blob/master/Screenshots/Life%20Before%20Life%206.jpg)
 
-![Life Before Life 7](./Screenshots/Life Before Life 7.jpg)
+![Life Before Life 7](https://github.com/leelightman/Life-Before-Life-Final-Version/blob/master/Screenshots/Life%20Before%20Life%207.jpg)
 
-![Life Before Life 8](./Screenshots/Life Before Life 8.jpg)
+![Life Before Life 8](https://github.com/leelightman/Life-Before-Life-Final-Version/blob/master/Screenshots/Life%20Before%20Life%208.jpg)
 
-![Life Before Life 9](./Screenshots/Life Before Life 9.jpg)
+![Life Before Life 9](https://github.com/leelightman/Life-Before-Life-Final-Version/blob/master/Screenshots/Life%20Before%20Life%209.jpg)
 
 ![Life Before Life 10](https://github.com/leelightman/Life-Before-Life-Final-Version/blob/master/Screenshots/Life%20Before%20Life%2010.jpg)
 
-![Life Before Life 11](./Screenshots/Life Before Life 11.jpg)
+![Life Before Life 11](https://github.com/leelightman/Life-Before-Life-Final-Version/blob/master/Screenshots/Life%20Before%20Life%2011.jpg)
 
-![Life Before Life 12](./Screenshots/Life Before Life 12.jpg)
+![Life Before Life 12](https://github.com/leelightman/Life-Before-Life-Final-Version/blob/master/Screenshots/Life%20Before%20Life%2012.jpg)
 
-![Life Before Life End](./Screenshots/Life Before Life End.jpg)
+![Life Before Life End](https://github.com/leelightman/Life-Before-Life-Final-Version/blob/master/Screenshots/Life%20Before%20Life%20End.jpg)
 
-![Life Before Like birdview](./Screenshots/Life Before Like birdview.jpg)
+![Life Before Like birdview](https://github.com/leelightman/Life-Before-Life-Final-Version/blob/master/Screenshots/Life%20Before%20Like%20birdview.jpg)
