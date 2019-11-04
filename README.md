@@ -1,5 +1,7 @@
 # Life-Before-Life-Final-Version
 
+Built version (MacOS) - https://baconwarrior.itch.io/life-before-life-final
+
 ![Life Before Life 2](./Screenshots/Life Before Life 2.jpg)
 
 ![Life Before Life](./Screenshots/Life Before Life.jpg)
