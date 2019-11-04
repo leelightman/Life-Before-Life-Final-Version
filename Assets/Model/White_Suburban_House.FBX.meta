@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: a409eb4db91c64294b77443a46ba5076
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2100000: Blank
+    2100002: Top_House_Left__Top_House_Left_png
+    2100004: Garage_and_Porch_Siding__Garage_and_Porch_Siding_png
+    2100006: House_Front__House_Front_png
+    2100008: House_Back__House_Back_png
+    2100010: Back_Extrusion_Roof__Extrusion_Roof_png
+    2100012: Front_Porch__Front_Porch_png
+    2100014: House_Right__House_Right_png
+    2100016: Top_House_Front__Top_House_Front_png
+    2100018: Left_Siding__Left_Siding
+    2100020: Right_House_Roof__Right_House_Roof_png
+    2100022: Porch_Roof__Porch_Roof_png
+    2100024: Left_House_Siding__House_Left_Side_png
+    2100026: Window_Frames__Window_Frame_png
+    2100028: Brick_Foundations__Brick_Foundations_png
+    2100030: Garage_Stairs__Garage_Stairs_png
+    2100032: Top_Inside_Wall__Top_Inside_Wall_png
+    2100034: Ceiling__Ceiling_png
+    2100036: Door__door_png
+    2100038: Inside_Wall__Inside_Wall_png
+    2100040: Blank__Left_Siding
+    2100042: Garage_Ceiling__Garage_Ceiling_png
+    2100044: Garage_Floor__Garage_Floor_png
+    2100046: Blank_Tiles__Blank_Tiles_png
+    2100048: Blank__Carpet_png
+    2100050: Hard_Wood__Hard_Wood_png
+    2100052: Garage_Roof__Garage_Roof_png
+    2100054: Left_House_Roof__Left_House_Roof_png
+    2100056: Inside_Garage_Wall__Inside_Garage_Wall_png
+    2100058: Porch_Floor__Porch_Floor_png
+    2100060: Blank__Garage_Roof_png
+    2100062: Garage_Door__Garage_Door_png
+    2100064: Back_Door__Back_Door_png
+    2100066: GLASS_tabletop
+    2100068: Right_House_Roof
+    2100070: Inside_Garage_Wall
+    2100072: Inside_Garage_Wall__Inside_Wall_png
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Plane_001
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

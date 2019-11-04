@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: 3c115125a37b74d26b6ceacbd351b810
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Mesh1
+    400000: //RootNode
+    400002: Mesh1
+    2100000: _4
+    2100002: BackColor
+    2100004: _29
+    2100006: FrontColor
+    2100008: Color_M09
+    2100010: Aluminum
+    2100012: _6
+    2100014: Wood_Cherry_Original
+    2100016: _64
+    2100018: _3
+    2100020: _
+    2100022: _53
+    2100024: Wood_Veneer_01
+    2100026: _47
+    2100028: Color_A07
+    2100030: _51
+    2100032: _54
+    2100034: _55
+    2100036: _49
+    2100038: Terrazzo_Tile_Light
+    2100040: Steel_Brushed_Stainless
+    2100042: _11
+    2100044: _58
+    2100046: _57
+    2100048: _5
+    2100050: _48
+    2100052: Color_G08
+    2100054: _56
+    2100056: _44
+    2100058: _8
+    2100060: _24
+    2100062: _9
+    2100064: _17
+    2100066: Translucent_Glass_Gray
+    2100068: _18
+    2100070: _20
+    2100072: _62
+    2100074: _22
+    2100076: _21
+    2100078: _26
+    2100080: _14
+    2100082: _28
+    2100084: Granite_Light_Gray
+    2100086: Stone_Vein_Gray
+    2100088: _30
+    2100090: _33
+    2100092: Wood_Floor
+    2100094: _31
+    2100096: _34
+    2100098: _59
+    2100100: _35
+    2100102: _39
+    2100104: _52
+    2100106: Formica_Speckled_Grey
+    2100108: Quartz_Light_Grey
+    2100110: Metal_Corrugated_Shiny
+    2100112: _40
+    2100114: Quartz_Light_Brown
+    2100116: _41
+    2100118: Asphalt
+    2100120: _45
+    2100122: _50
+    2100124: _61
+    2100126: _63
+    2100128: _66
+    2100130: _67
+    2100132: Granite_Dark_Gray
+    2100134: _37
+    2100136: _12
+    2300000: Mesh1
+    3300000: Mesh1
+    4300000: Mesh1
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
