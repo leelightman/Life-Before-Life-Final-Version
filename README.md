@@ -2,9 +2,9 @@
 
 Built version (MacOS) - https://baconwarrior.itch.io/life-before-life-final
 
-![Life Before Life 2](./Screenshots/Life Before Life 2.jpg)
+![Life Before Life 2](Screenshots/Life Before Life 10.jpg)
 
-![Life Before Life](./Screenshots/Life Before Life.jpg)
+![Life Before Life](./Screenshots/Life Before Life.jpg?raw=true "Title")
 
 ![Life Before Life 3](./Screenshots/Life Before Life 3.jpg)
 
@@ -20,7 +20,7 @@ Built version (MacOS) - https://baconwarrior.itch.io/life-before-life-final
 
 ![Life Before Life 9](./Screenshots/Life Before Life 9.jpg)
 
-![Life Before Life 10](./Screenshots/Life Before Life 10.jpg)
+![Life Before Life 10](https://github.com/leelightman/Life-Before-Life-Final-Version/blob/master/Screenshots/Life%20Before%20Life%2010.jpg)
 
 ![Life Before Life 11](./Screenshots/Life Before Life 11.jpg)
 
